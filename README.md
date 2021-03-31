@@ -1,6 +1,6 @@
 # rvn-asset-bazaar
 
-# **Note: Lightweight vs core-tap.  For low volume assets, API calls should work, but for large volume a version of this app that uses ravend needs to built 
+## **Note: Lightweight vs core-tap.  For low volume assets, API calls should work, but for large volume a version of this app that uses ravend needs to built 
 
 
 

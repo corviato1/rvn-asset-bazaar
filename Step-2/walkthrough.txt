@@ -1,0 +1,27 @@
+Process:
+1- input addy
+1.1 - click confirm
+2 -input time frame
+2.1 - click confirm
+3 -click Submit
+
+What happens:
+1- prequal for valid input addy by character range and first character as "R" or "r"
+2 - Block or Time is input by user and a conversion is ran to produce output of red text
+3 - Submit is clicked
+Magic:
+4 - Contents of input addy is goes at the end of https://ravencoin.network/api/addr/
+5 - API call is ran
+6 - Contents are copied to https://json-csv.com/
+7 - CSV is downloaded
+8 - CSV is edited to only retain column "L"
+9 - Line by line API call like step 4, but for https://ravencoin.network/api/tx/ and instead of user input it pulls from CSV consisting of only column "L"
+10 - contents of each call are copied to https://json-csv.com/
+11 -  CSVs are downloaded
+12 - CSVs are edited to only show column "A", "J", and "X"
+13 - All CSVs with a # outside the parameters of the search are deleted
+14 - A new CSV is made from the contents of column "J" of all CSVs made by step 11
+All CSVs from steps 11 and 14 are zipped in a folder
+15 - That folder becomes available for user to download by clicking button "Download"
+16 - User can then proceed to step 3 in contract
+

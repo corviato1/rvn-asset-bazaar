@@ -1,0 +1,30 @@
+https://ravencoin.network/api/addr/RShhrqUEaDWJYkVeAGMJkzRHjykpxpoMc1/transactions/
+
+https://ravencoin.network/api/tx/6c0949a8dfb0f87eb17dde67ecc7726d0570e544c8542c5e6c760a172a4eaa18
+
+
+
+{"txid":"6c0949a8dfb0f87eb17dde67ecc7726d0570e544c8542c5e6c760a172a4eaa18","version":1,"locktime":0,"vin":[
+{"txid":"81d84d5e18a95ba3627f390bb55b624e941afbee5361cd33768b50020890ac1b","vout":0,"sequence":4294967295,"n":0,"scriptSig":
+{"hex":"473044022042456977219bb348a5e3bb92b54fe7804fc355ac9d990224ae6ed35a9e76e01d022077613fb5d5fd9696e4c2cb77195ca162be5630827b6e7e4eef0a2d6b7aee6bdf012102ff55085117935c23fbc648fb489bdccdbc5284c30e9c15d51c85c54bc2c7f5d7","asm":"3044022042456977219bb348a5e3bb92b54fe7804fc355ac9d990224ae6ed35a9e76e01d022077613fb5d5fd9696e4c2cb77195ca162be5630827b6e7e4eef0a2d6b7aee6bdf[ALL] 02ff55085117935c23fbc648fb489bdccdbc5284c30e9c15d51c85c54bc2c7f5d7"},"addr":"RJSmRjbJsTbSQK1NpdfPFQcKggoHyn6iXG","valueSat":1911408888867,"value":19114.08888867,"doubleSpentTxID":null}
+
+],"vout":[
+{"value":"19113.07888867","n":0,"scriptPubKey":
+{"hex":"76a914f966d8f4a7b6bee8f28f71374d23386430843d5a88ac","asm":"OP_DUP OP_HASH160 f966d8f4a7b6bee8f28f71374d23386430843d5a OP_EQUALVERIFY OP_CHECKSIG","addresses":["RY1uYFU514UZmBp5Ee8kYzb5AkNdo7A43Z"],"type":"pubkeyhash"}
+,"spentTxId":null,"spentIndex":null,"spentHeight":null}
+,{"value":"1.00000000","n":1,"scriptPubKey":
+{"hex":"76a914bf1cfb4dde7809e05e0d119f191ff7b172fb42e988ac","asm":"OP_DUP OP_HASH160 bf1cfb4dde7809e05e0d119f191ff7b172fb42e9 OP_EQUALVERIFY OP_CHECKSIG","addresses":["RShhrqUEaDWJYkVeAGMJkzRHjykpxpoMc1"],"type":"pubkeyhash"}
+,"spentTxId":null,"spentIndex":null,"spentHeight":null}
+
+
+],"blockhash":"00000000000048b051bfd05d3b36816383f197ed6ec841d55c1fb00b4aca8e71","blockheight":1686989,"confirmations":110,"time":1616967212,"blocktime":1616967212,"valueOut":19114.07888867,"size":225,"valueIn":19114.08888867,"fees":0.01}
+
+
+
+
+
+
+
+==========
+
+vin__addr

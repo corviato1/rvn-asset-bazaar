@@ -1,6 +1,6 @@
 # rvn-asset-bazaar
 
-# To do
+# To do:
 Api threshold test
 
 Expand on readme

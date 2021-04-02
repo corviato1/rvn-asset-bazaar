@@ -4,6 +4,9 @@
 
 Ex: is there an advantage to csv over json?
 
+
+
+Ex:
 ## .csv
 
 "addrStr","balance","balanceSat","totalReceived","totalReceivedSat","totalSent","totalSentSat","unconfirmedBalance","unconfirmedBalanceSat","unconfirmedTxApperances","txApperances","transactions"

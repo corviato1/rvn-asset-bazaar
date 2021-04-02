@@ -10,7 +10,7 @@
 
 3 After your wallet is at full sync with the blockchain click the Receive tab on the left. Type your label, like your name or project, or whatever. The Message and Amount boxes can be left blank. Then hit the Request payment button and hazzah! you now have a receiving address. Next, we want to make an address for selling NFTs with rvn-asset-bazaar. For this, type the asset name in the Label box, rvn-asset-bazaar in the Message box, and the price you want to list your NFT for. Then Click Request payment.
 
-4 Open notepad and copy the receiving address. And save it in the file you made earlier.
+4 Open notepad(++) and copy the receiving address. And save it in the file you made earlier.
 
 5 Next go back to Qr code, find the “Prt Sc” button at the top of your keyboard and give it a tap. Then open up Paint 3D. Once it’s open hold down the “CTRL” key and tap the “V” key. A grab of your screen should have popped up. From here, click the crop button in the upper left, and crop accordingly. It may be in your benefit to leave the address in the picture as a fallback security should you forget which Qr it is down the line. Once cropped, save it to the file you made prior.
 
@@ -18,15 +18,22 @@
 
 7 Open up framework js file(link to file) Edit text lines (price), ____(name)__, (IPFS), (IPFS url), and asset explorer url
 
-8 Open folder ________, then delete qr.png and ipfs.png Copy over your qr image and ipfs image and rename the files respectively.
+8 Open folder "dapp-needs-improvement"
 
-9 Deploy your contract on ipfs
+9 Open folder “assets”, delete existing images, then copy in your asset image and qr image
+*Note: I recommend naming the asset image the ipfs hash, and the qr the address 
 
-10 Check your contract on ipfs
+10 Go back to folder "dapp-needs-improvement" and open file “js”.   Then right click the file inside and open with notepad(++)
 
-10.1
+11 edit the content of all lines with “< >”.  Specifically, lines 2, 3, 4, 5, 9, 10, 12, and 13
+*Note: when finished, all “<” and “>” symbols should be removed.
 
-10.2
+13 Save and exit
+
+14 Deploy contract on ipfs.  This can best be done one of two ways.  In powershell, or with ipfs shipyard.  For tutorials on how to set up both those methods check out video tutorials here____________ 
+
+15 Check your contract on ipfs
 
 
 **Remember, there is no undo button
+

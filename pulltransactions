@@ -1,0 +1,1 @@
+invoke-webrequest -URI https://ravencoin.network/api/addr/RShhrqUEaDWJYkVeAGMJkzRHjykpxpoMc1 | Select -ExpandProperty Content > transactions.txt

@@ -1,4 +1,4 @@
-# 1 Download qt *NOTE: Scams and fraud are a real thing, be sure to download the right wallet. Go to ravencoin.org, click the link, and check the github history like this. You can see that many people have forked this code, and that this project has been posting here for a long time if you scroll down. Remember, trust but verify. Check the url, and make sure you are actually on github.
+#1 Download qt *NOTE: Scams and fraud are a real thing, be sure to download the right wallet. Go to ravencoin.org, click the link, and check the github history like this. You can see that many people have forked this code, and that this project has been posting here for a long time if you scroll down. Remember, trust but verify. Check the url, and make sure you are actually on github.
 
 1 Organization is super underrated. Make a folder on your desktop with the name of your NFT project for easy access and all around simplicity.
 

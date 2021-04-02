@@ -1,5 +1,11 @@
 # rvn-asset-bazaar
 
+# To do
+Api threshold test
+
+Expand on readme
+
+
 # Notes: 
 Lightweight vs core-tap.  For low volume assets, API calls should work, but for large volume a version of this app that uses ravend needs to built 
 

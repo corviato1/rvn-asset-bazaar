@@ -1,5 +1,5 @@
 # invoke-webrequest
-//open powershell
+Open powershell
 $cd ~
 $cd <place you want text file downloaded
 $invoke-webrequest -URI https://ravencoin.network/api/addr/RShhrqUEaDWJYkVeAGMJkzRHjykpxpoMc1 | Select -ExpandProperty Content > transactions.txt

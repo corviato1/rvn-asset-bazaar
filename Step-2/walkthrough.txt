@@ -25,4 +25,8 @@ All CSVs from steps 11 and 14 are zipped in a folder
 15 - That folder becomes available for user to download by clicking button "Download"
 16 - User can then proceed to step 3 in contract
 
-### apdqn510  Update
+## ON LINUX
+1. Run Script 1
+2. Run script 2
+3. Manually filter CSV for VOUT addresses and save to addy.txt
+4. Run spam script reading from addy.txt

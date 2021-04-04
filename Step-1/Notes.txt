@@ -1,3 +1,8 @@
+sync -asset inde and tx index.  vid from apdan510 pending
+
+
+
+
 https://ravencoin.network/api/addr/RShhrqUEaDWJYkVeAGMJkzRHjykpxpoMc1/transactions/
 
 https://ravencoin.network/api/tx/6c0949a8dfb0f87eb17dde67ecc7726d0570e544c8542c5e6c760a172a4eaa18

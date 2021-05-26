@@ -31,7 +31,7 @@
 
 ## Step-7
 
-### Message: <name of .sh file> or <meme. ex = http://ipfs.io/ipfs/Qmb6zSwFt9fYZjnztRnzqYFzeggkd4BXna7aUcbPpEnGtP>
+### Message: <name of .sh file> or <meme. ex = http://ipfs.io/ipfs/Qmb6zSwFt9fYZjnztRnzqYFzeggkd4BXna7aUcbPpEnGtP >
 
 ## Step-8
 
